@@ -143,7 +143,7 @@ export default function Form({ customers }: { customers: CustomerField[] }) {
                     {state.message}
                   </p>)
             }
-            </div>
+          </div>
       </div>
       <div className="mt-6 flex justify-end gap-4">
         <Link
